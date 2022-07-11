@@ -1,6 +1,0 @@
-model_checkpoint_path: "/content/drive/MyDrive/cnn-text-classification-tf/runs/all_categories/checkpoints/model-15000"
-all_model_checkpoint_paths: "/content/drive/MyDrive/cnn-text-classification-tf/runs/all_categories/checkpoints/model-11000"
-all_model_checkpoint_paths: "/content/drive/MyDrive/cnn-text-classification-tf/runs/all_categories/checkpoints/model-12000"
-all_model_checkpoint_paths: "/content/drive/MyDrive/cnn-text-classification-tf/runs/all_categories/checkpoints/model-13000"
-all_model_checkpoint_paths: "/content/drive/MyDrive/cnn-text-classification-tf/runs/all_categories/checkpoints/model-14000"
-all_model_checkpoint_paths: "/content/drive/MyDrive/cnn-text-classification-tf/runs/all_categories/checkpoints/model-15000"
